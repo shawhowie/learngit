@@ -1,7 +1,8 @@
+#!/usr/bin/env
 # -*- coding: utf-8 -*-
 # Title      : 谷歌host修改脚本
 # Author  : 2016-03-30 09:55:55
-# Date     :  Shaw
+# Date     : Shaw
 #【使用说明】
 #请确保在当“前用户对host可写”前提下使用；
 
